@@ -107,3 +107,6 @@ Tools
 /EOSBasic/Plugins/OnlineSubsystemEOS/Source/ThirdParty/EOSSDK/Include
 /EOSBasic/Config/DefaultEngine - Local.ini
 /EOSBasic/Config/DefaultEngine_Live.ini
+
+# Jetbrains Rider / CLion user specific files
+EOSBasic/.idea/
